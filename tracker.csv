@@ -1,1 +1,7 @@
 Date,Type,Problem,Number,Topic,Difficulty,Time_Min,Status,Hint_Used,Redo_Date,Notes
+2026-09-22,LeetCode,Merge Strings Alternately,1768,Array/String,Easy,,🟢,No,,Pattern: Two Pointers. Tags: Array String Two-Pointers
+2026-09-22,LeetCode,Greatest Common Divisor of Strings,1071,Array/String,Easy,,🟢,No,,Pattern: Math/String manipulation. Tags: String Math
+2026-09-22,LeetCode,Kids With the Greatest Number of Candies,1431,Array/String,Easy,,🟢,No,,Pattern: Precompute Maximum (avoids O(n^2)). Tags: Array
+2026-09-22,LeetCode,Can Place Flowers,605,Array/String,Easy,,🟢,No,,Pattern: Linear Scan/Greedy. Tags: Array Greedy
+2026-09-22,LeetCode,Reverse Words in a String,151,Array/String,Medium,,🟢,No,,Pattern: Split->Reverse->Join. Tags: String
+2026-09-22,LeetCode,Reverse Vowels of a String,345,Array/String,Easy,,🟡,Yes,2026-09-25,Learning - Two Pointers pattern introduced not yet independent. Mark as Learning not Mastered. Review: 3-day 2026-09-25 / 7-day 2026-09-29 / 30-day 2026-10-22. Tags: String Two-Pointers
