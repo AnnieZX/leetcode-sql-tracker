@@ -5,3 +5,13 @@ Date,Type,Problem,Number,Topic,Difficulty,Time_Min,Status,Hint_Used,Redo_Date,No
 2026-09-22,LeetCode,Can Place Flowers,605,Array/String,Easy,,🟢,No,,Pattern: Linear Scan/Greedy. Tags: Array Greedy
 2026-09-22,LeetCode,Reverse Words in a String,151,Array/String,Medium,,🟢,No,,Pattern: Split->Reverse->Join. Tags: String
 2026-09-22,LeetCode,Reverse Vowels of a String,345,Array/String,Easy,,🟡,Yes,2026-09-25,Learning - Two Pointers pattern introduced not yet independent. Mark as Learning not Mastered. Review: 3-day 2026-09-25 / 7-day 2026-09-29 / 30-day 2026-10-22. Tags: String Two-Pointers
+2026-10-05,SQL,Recyclable and Low Fat Products,1757,Select,Easy,,,,,Pattern: SELECT/WHERE with multiple conditions. Tags: SELECT WHERE
+2026-10-05,SQL,Find Customer Referee,584,Select,Easy,,,,,Pattern: SELECT/WHERE filtering. Tags: SELECT WHERE
+2026-10-05,SQL,Big Countries,595,Select,Easy,,,,,Pattern: SELECT/WHERE with OR conditions. Tags: SELECT WHERE
+2026-10-05,SQL,Article Views I,1148,Select,Easy,,,,,Pattern: DISTINCT + alias + ORDER BY. Output aliases and required ordering matter. Tags: DISTINCT AS ORDER-BY
+2026-10-05,SQL,Invalid Tweets,1683,Select,Easy,,,,,Pattern: String length filter. Use LENGTH(content) when comparing string length. Tags: WHERE LENGTH
+2026-10-05,SQL,Replace Employee ID With The Unique Identifier,1378,Basic Joins,Easy,,,,,Pattern: LEFT JOIN. Reinforced table aliases and LEFT JOIN behavior. Tags: LEFT-JOIN AS
+2026-10-05,SQL,Product Sales Analysis I,1068,Basic Joins,Easy,,,,,Pattern: INNER JOIN. Tags: INNER-JOIN
+2026-10-05,SQL,Customer Who Visited but Did Not Make Any Transactions,1581,Basic Joins,Easy,,,,,Pattern: LEFT JOIN + IS NULL + GROUP BY + COUNT. Tags: LEFT-JOIN IS-NULL GROUP-BY COUNT
+2026-10-05,SQL,Rising Temperature,197,Basic Joins,Easy,,,,,Pattern: Self join to compare rows in the same table. Match by dates (DATEDIFF) rather than assuming IDs are consecutive. Tags: Self-Join DATEDIFF Dates
+2026-10-05,SQL,Not Boring Movies,620,Basic Aggregate Functions,Easy,,,,,Pattern: WHERE filter + ORDER BY. Tags: WHERE ORDER-BY

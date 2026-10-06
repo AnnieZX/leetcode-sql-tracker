@@ -9,7 +9,7 @@ Tracking my preparation for 2027 New Grad technical interviews across Software E
 ## Overall Goals
 
 - LeetCode: 5 / 75
-- SQL: 0 / 40
+- SQL: 10 / 40
 
 ## Current Focus
 
@@ -36,9 +36,9 @@ Tracking my preparation for 2027 New Grad technical interviews across Software E
 
 | Topic | Status |
 |---|---|
-| SELECT / WHERE | 🔴 Not Started |
-| GROUP BY / HAVING | 🔴 Not Started |
-| JOIN | 🔴 Not Started |
+| SELECT / WHERE | 🟡 In Progress |
+| GROUP BY / HAVING | 🟡 In Progress |
+| JOIN | 🟡 In Progress |
 | CASE WHEN | 🔴 Not Started |
 | CTE / Subqueries | 🔴 Not Started |
 | Window Functions | 🔴 Not Started |
@@ -71,6 +71,7 @@ Problems marked 🟡 or 🔴 are scheduled for spaced review at **3, 7, and 30 d
 | Week | Dates | LeetCode Solved | SQL Solved | Independent Solve Rate | Notes |
 |---|---|---|---|---|---|
 | 1 | 2026-09-19 – 2026-09-25 | 5 | 0 | 100% (5/5) | Array/String basics; bottleneck is Python syntax fluency, not algorithm recognition |
+| 3 | 2026-10-03 – 2026-10-09 | 0 | 10 | — | 2026-10-05: SQL Select, Basic Joins, Basic Aggregate Functions (SELECT/WHERE, DISTINCT, AS, ORDER BY, LENGTH(), INNER/LEFT JOIN, LEFT JOIN + IS NULL, GROUP BY/COUNT, self joins, DATEDIFF) |
 
 ## Repository Structure
 
